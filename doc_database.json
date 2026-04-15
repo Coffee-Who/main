@@ -1,1 +1,10 @@
-
+{
+  "id": "唯一識別碼 (如 MD5 雜湊值)",
+  "brand": "品牌 (Formlabs / Scanology)",
+  "device": "型號 (Form 4 / SIMSCAN30)",
+  "category": "分類 (Datasheet / User Manual)",
+  "title": "文件標題 (搜尋主要對象)",
+  "url": "檔案路徑或連結",
+  "date": "更新日期",
+  "tags": ["關鍵字1", "關鍵字2"]
+}
