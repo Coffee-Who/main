@@ -1,0 +1,6 @@
+streamlit
+pandas
+trimesh
+numpy
+scipy
+rtree
