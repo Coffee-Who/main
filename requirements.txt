@@ -4,3 +4,5 @@ trimesh
 numpy
 scipy
 rtree
+requests
+beautifulsoup4
